@@ -1,0 +1,21 @@
+day,customer_id,item,size,price
+Monday,59186,coffee,medium,1.85
+Monday,39675,coffee,large,2.00
+Monday,66274,tea,medium,1.50
+Monday,90981,donut,,0.75
+Tuesday,25391,donut,,0.75
+Tuesday,34645,muffin,,1.50
+Tuesday,72908,boba,medium,2.50
+Tuesday,19843,coffee,small,1.65
+Wednesday,81520,muffin,,1.50
+Wednesday,51693,tea,large,1.50
+Wednesday,80547,coffee,medium,1.85
+Wednesday,89839,boba,large,3.00
+Thursday,32833,coffee,large ,2.00
+Thursday,22763,donut,,0.75
+Thursday,30156,boba,medium,2.50
+Thursday,18626,boba,medium,2.50
+Friday,84774,coffee,small,1.65
+Friday,28448,coffee,small,1.65
+Friday,14756,donut,,0.75
+Friday,35931,tea,small,1.50
